@@ -2,7 +2,7 @@
 
 **Software Engineer | Apache Fineract Committer | GSoC 2026 Mentor**
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat-square)]([https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/](https://www.linkedin.com/in/aman-mittal-522a7733/))
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=flat-square)](https://www.linkedin.com/in/aman-mittal-522a7733))
 
 I'm a software engineer focused on building maintainable production systems and contributing to open-source software. My work spans backend development, frontend architecture, API integrations, automated testing, and CI/CD.
 
@@ -199,7 +199,7 @@ Explore: [Walkin Dungeons](https://aman-mittal.github.io/)
 ## 📫 Connect
 
 - **GitHub:** [Aman-Mittal](https://github.com/Aman-Mittal)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-mittal-522a7733/)
 - **Apache Fineract:** [Repository](https://github.com/apache/fineract)
 - **Fineract Consumer-Facing:** [Repository](https://github.com/apache/fineract-consumer-facing)
 - **Fineract Backoffice UI:** [Repository](https://github.com/apache/fineract-backoffice-ui)
